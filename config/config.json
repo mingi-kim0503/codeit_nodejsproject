@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "freedb_mingikim",
+    "password": "dDH&hdxaaTU&c5j",
+    "database": "freedb_nodejsproject",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "34.160.67.231",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "34.160.67.231",
+    "dialect": "mysql"
+  }
+}
